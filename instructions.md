@@ -1,3 +1,13 @@
+<details>
+  <summary>✅ Create PyCharm project</summary>
+
+  - Create new Pycharm Project
+  - Copy main.py from previous assignment
+  - Create a directory `cw11`
+  - In this directory, create classes.py and copy the code from previous assignment
+  - Inside cw11, create two folders `faculty` and `staff`
+</details>
+
 ## In cw11/classes.py
 Create the classes as shown in the inheritance diagram
 

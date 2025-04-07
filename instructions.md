@@ -12,6 +12,7 @@
 Create the classes as shown in the [inheritance diagram](https://github.com/suchialex/CINS3002-CW11/blob/main/Diagram.pdf)
 
 ## In cw11/faculty/class_functions.py
+### Import the faculty class
 ### Create function fac_ops
 
 <details>
@@ -51,6 +52,7 @@ Create the classes as shown in the [inheritance diagram](https://github.com/such
 </details>
 
 ## In cw11/staff/class_functions.py
+### Import the staff class
 ### Create function staff_ops
 
 <details>
@@ -87,4 +89,16 @@ Create the classes as shown in the [inheritance diagram](https://github.com/such
   
   - Call the str method and print all the details of staff
   - Call the str method and print all the details of staff2
+</details>
+
+## In main.py
+
+<details>
+  <summary>
+    Call the functions
+  </summary>
+  
+  - Import the class functions from both faculty and staff folders
+  - Call fac_ops and staff_ops
+  - Execute and test your code
 </details>

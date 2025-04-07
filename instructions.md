@@ -9,7 +9,7 @@
 </details>
 
 ## In cw11/classes.py
-Create the classes as shown in the inheritance diagram
+Create the classes as shown in the [inheritance diagram](https://github.com/suchialex/CINS3002-CW11/blob/main/Diagram.pdf)
 
 ## In cw11/faculty/class_functions.py
 

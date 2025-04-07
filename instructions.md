@@ -12,10 +12,12 @@
 Create the classes as shown in the [inheritance diagram](https://github.com/suchialex/CINS3002-CW11/blob/main/Diagram.pdf)
 
 ## In cw11/faculty/class_functions.py
+### Create function fac_ops
 
 <details>
   <summary>✅ Create faculty1 object and print</summary>
 
+  - Inside fac_ops body
   - Create new faculty, by creating an object of the Faculty class and call it faculty1
   - Set name = Margaret Ruth, phone = 3182789456, email = mruth@ed.edu, department = BUS, pay = 45000, tenure = 9
   - Pass arguments name, phone, email, department, pay, tenure when you create the object faculty1
@@ -34,7 +36,7 @@ Create the classes as shown in the [inheritance diagram](https://github.com/such
 <details>
   <summary>✅ Change the values of the objects</summary>
   
-  - Change faculty1’s email to ruth@ed.edu
+  - Change faculty1’s email to ruth@ed.edu (Can you? If yes, why not?)
   - Change faculty2’s phone number to 3181258753
   - Get faculty1’s name and print it
   - Get faculty2’s pay and print it
@@ -49,10 +51,12 @@ Create the classes as shown in the [inheritance diagram](https://github.com/such
 </details>
 
 ## In cw11/staff/class_functions.py
+### Create function staff_ops
 
 <details>
   <summary>✅ Create staff1 object and print</summary>
   
+  - Inside staff_ops body
   - Create new staff, by creating an object of the Staff class and call it staff1
   - Set name = Ian West, phone = 3183421158, email = iwest@ed.edu, department = IT, pay = 55000, role = admin
   - Pass arguments name, phone, email, major, department, pay, role when you create the object staff1
@@ -72,7 +76,7 @@ Create the classes as shown in the [inheritance diagram](https://github.com/such
   <summary>✅ Change the values of the objects</summary>
   
   - Change staff2’s email to taylor@ed.edu
-  - Change staff1’s department to OIt
+  - Change staff1’s department to OIT
   - Get staff2’s name and print it
   - Get staff1’s pay and print it
   - Change the staff2’s phone to 2254561891

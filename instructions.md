@@ -19,25 +19,23 @@ Create the classes as shown in the [inheritance diagram](https://github.com/such
   <summary>✅ Create faculty1 object and print</summary>
 
   - Inside fac_ops body
-  - Create new faculty, by creating an object of the Faculty class and call it faculty1
-  - Set name = Margaret Ruth, phone = 3182789456, email = mruth@ed.edu, department = BUS, pay = 45000, tenure = 9
-  - Pass arguments name, phone, email, department, pay, tenure when you create the object faculty1
+  - Create variables f_id = 3456, name = Margaret Ruth, phone = 3182789456, email = mruth@ed.edu, department = BUS, pay = 45000, tenure = 9
+  - Create new faculty, by creating an object of the Faculty class and call it faculty1 (pass above variables as arguments)
   - Call the str method and print all the details of faculty1
 </details>
 
 <details>
   <summary>✅ Create faculty2 object and print</summary>
   
-  - Create another faculty object and call it faculty2
-  - Set name =Jeffrey Watson, phone = 3182159753, email = jwatson@ed.edu, department = HIST, pay = 46000, tenure = 12
-  - Pass arguments name, phone, email, department, pay, tenure when you create the object faculty2
+  - Create variables f_id = 3457, name =Jeffrey Watson, phone = 3182159753, email = jwatson@ed.edu, department = HIST, pay = 46000, tenure = 12
+  - Create another faculty object and call it faculty2 (pass above variables as arguments)
   - Call the str method and print all the details of faculty2
 </details>
 
 <details>
   <summary>✅ Change the values of the objects</summary>
   
-  - Change faculty1’s email to ruth@ed.edu (Can you? If yes, why not?)
+  - Change faculty1’s email to ruth@ed.edu (Can you? If no, why not?)
   - Change faculty2’s phone number to 3181258753
   - Get faculty1’s name and print it
   - Get faculty2’s pay and print it
@@ -59,25 +57,23 @@ Create the classes as shown in the [inheritance diagram](https://github.com/such
   <summary>✅ Create staff1 object and print</summary>
   
   - Inside staff_ops body
-  - Create new staff, by creating an object of the Staff class and call it staff1
-  - Set name = Ian West, phone = 3183421158, email = iwest@ed.edu, department = IT, pay = 55000, role = admin
-  - Pass arguments name, phone, email, major, department, pay, role when you create the object staff1
+  - Create variables s_id = 5646, name = Ian West, phone = 3183421158, email = iwest@ed.edu, department = IT, pay = 55000, role = admin
+  - Create new staff, by creating an object of the Staff class and call it staff1 (by passing above variables as arguments)
   - Call the str method and print all the details of staff1
 </details>
 
 <details>
   <summary>✅ Create staff2 object and print</summary>
   
-  - Create another student object and call it staff2
-  - Set name = Gwen Taylor, phone = 3181521356, email = gtaylor@ed.edu, department = OMC, pay = 58000, role = supervisor
-  - Pass arguments name, phone, email, major, department, pay, role when you create the object staff2
+  - Create variables s_id = 5647, name = Gwen Taylor, phone = 3181521356, email = gtaylor@ed.edu, department = OMC, pay = 58000, role = supervisor
+  - Create another student object and call it staff2 (by passing above variables as arguments)
   - Call the str method and print all the details of staff2
 </details>
 
 <details>
   <summary>✅ Change the values of the objects</summary>
   
-  - Change staff2’s email to taylor@ed.edu
+  - Change staff2’s email to taylor@ed.edu (Can you? If no, why not?)
   - Change staff1’s department to OIT
   - Get staff2’s name and print it
   - Get staff1’s pay and print it
